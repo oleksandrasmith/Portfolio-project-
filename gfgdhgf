@@ -1,0 +1,30 @@
+ <section>
+          <div></div>
+        <h2>Hobbies</h2>
+        <ul>
+          <li>Reading</li>
+          <li>Camping</li>
+          <li>Hanging out with friends</li>
+          <li>Watching weird movies</li>
+          <li>Playing with code</li>
+          <li>Listening to music</li>
+          <li>Learning new language</li>
+        </section>
+        </ul>
+      </div>
+      </nav>
+
+
+      <nav>
+        <h2>Interests</h2>
+        <ul>
+          <li>Coding</li>
+          <li>Psychology</li>
+          <li>Yoga</li>
+          <li>Nutrition</li>
+          <li>Eating good food</li>
+          <li>Resturant reviews</li>
+          <li>Music</li>
+        </ul>
+    </div>
+    </nav>
